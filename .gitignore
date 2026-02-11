@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+
+# React Native
+# Build output
+android/app/build/
+ios/Pods/
+
+# General development
+.DS_Store
+*.log
+*.tmp
+*.tmp/
